@@ -1,0 +1,5 @@
+com\agenda\config\ConfigProps.class
+com\agenda\model\Contato.class
+com\agenda\dao\ContatoDAO.class
+com\agenda\factory\ConnectionPostgressFactory.class
+com\agenda\TesteVacinacao.class
